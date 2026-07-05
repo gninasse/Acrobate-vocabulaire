@@ -1,0 +1,6 @@
+{
+  "name": "Cartes Vocabulaire",
+  "description": "Apprentissage actif du vocabulaire français pour enfants par répétition espacée et jeux ludiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
